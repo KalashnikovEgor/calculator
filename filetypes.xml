@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="UselessFile" type="CLASS" />
+      <mapping pattern="Testing" type="CLASS" />
+      <mapping pattern="TestFile" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
